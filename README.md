@@ -1,6 +1,8 @@
-# flutter_app_prj
+# Asmaulhusna Apps
 
 A new Flutter application.
+
+this apps is asmaulhusna apps created by : misbah bagaskara purwanto  use flutter android studio
 
 ## Getting Started
 
